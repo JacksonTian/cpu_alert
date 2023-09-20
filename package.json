@@ -1,5 +1,5 @@
 {
-  "name": "cpu_alert",
+  "name": "@jacksontian/cpu_alert",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,5 +13,6 @@
   "license": "ISC",
   "dependencies": {
     "node-notifier": "^10.0.1"
-  }
+  },
+  "files": ["bin"]
 }
