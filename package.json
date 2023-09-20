@@ -1,0 +1,17 @@
+{
+  "name": "cpu_alert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "cpu_alert": "./bin/alert.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-notifier": "^10.0.1"
+  }
+}
